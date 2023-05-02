@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# Hello World
+# Pau Guerra
 
 Lorem ipsum sit amer
